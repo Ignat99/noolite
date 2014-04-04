@@ -94,7 +94,7 @@ if (togl!=buf[0]){
 //  printf("comm:%s\n", commandtxt);
   printf("comm:%s\n");
 }
-usleep(1500);
+usleep(150);
 
       scanf("%c",i);
 
