@@ -10,6 +10,8 @@ E-mail: ermolenkom@yandex.ru
 
 Site: https://github.com/ermolenkom/noolite
 
+Article: http://olegart.ru/wordpress/2014/07/27/4304/
+
 Этот проект написан на языке Си для работы c адаптером для компьютера системы NooLite для OS Linux.
 
 За основу взят этот проект https://github.com/pythonchik/nooLite
